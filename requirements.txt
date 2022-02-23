@@ -4,7 +4,7 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
 attrs==21.4.0
-awkward @ git+https://github.com/scikit-hep/awkward-1.0@5e49baf2f20fb52a66aaa121d521932f5980cd27
+awkward==1.8.0rc4
 Babel==2.9.1
 backcall==0.2.0
 black==22.1.0
