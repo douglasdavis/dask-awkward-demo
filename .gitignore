@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 mydask.png
+dask-hlg.svg
 
 # C extensions
 *.so
