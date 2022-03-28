@@ -21,7 +21,6 @@ charset-normalizer==2.0.12
 click==8.0.4
 cloudpickle==2.0.0
 cycler==0.11.0
-dask==2022.3.0
 dask-awkward==2022.3a0
 dask-histogram==0.3.3
 dask-labextension==5.2.0
